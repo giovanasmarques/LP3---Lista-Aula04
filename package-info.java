@@ -1,3 +1,1 @@
-package ExerciciosBasicos02;
-
-
+package br.edu.ifsp.cmp.tads.ex03;
